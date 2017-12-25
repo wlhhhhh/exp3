@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1511601440 source:f:\programming\c\huffmancode\main.cpp
+	<iostream>
+	"MyMethod.h"
+	"HuffmanTree.h"
+
+1511601740 source:f:\programming\c\huffmancode\mymethod.cpp
+	"HuffmanTree.h"
+	"MyMethod.h"
+	<iostream>
+	<string.h>
+	<fstream>
+	<iomanip>
+
+1511063217 f:\programming\c\huffmancode\hufftree.h
+	"HuffmanNode.h"
+	<iostream>
+
+1511537942 f:\programming\c\huffmancode\huffmannode.h
+	<iostream>
+
+1511601415 f:\programming\c\huffmancode\mymethod.h
+	"HuffmanTree.h"
+
+1511537647 f:\programming\c\huffmancode\huffmantree.h
+	"HuffmanNode.h"
+	<iostream>
+
+1511601442 source:c:\users\10179\desktop\huffmancode\main.cpp
+	<iostream>
+	"MyMethod.h"
+	"HuffmanTree.h"
+
+1511601416 c:\users\10179\desktop\huffmancode\mymethod.h
+	"HuffmanTree.h"
+
+1511537648 c:\users\10179\desktop\huffmancode\huffmantree.h
+	"HuffmanNode.h"
+	<iostream>
+
+1514187265 c:\users\10179\desktop\huffmancode\huffmannode.h
+	<iostream>
+	<string.h>
+	<stdio.h>
+
+1514187265 source:c:\users\10179\desktop\huffmancode\mymethod.cpp
+	"HuffmanTree.h"
+	"MyMethod.h"
+	<iostream>
+	<string.h>
+	<fstream>
+	<iomanip>
+
